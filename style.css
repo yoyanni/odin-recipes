@@ -1,0 +1,58 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+#title {
+  color: #fff;
+  background-color: #000;
+}
+
+.chicken h1 {
+  background-color: #f00;
+}
+
+.chicken h2 {
+  background-color: #fa0;
+}
+
+.chicken a {
+  background-color: #ff0;
+}
+
+.coleslaw h1 {
+  background-color: #0f0;
+}
+
+.coleslaw h2 {
+  background-color: #0fa;
+}
+
+.coleslaw a {
+  background-color: #0ff;
+}
+
+.donuts h1 {
+  background-color: #00f;
+}
+
+.donuts h2 {
+  background-color: #a0f;
+}
+
+.donuts a {
+  background-color: #f0f;
+}
+
+.recipe-list {
+  background-color: #555;
+}
+
+.recipe-list li {
+  list-style-type: none;
+}
+
+.recipe-list a {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ccc;
+}
