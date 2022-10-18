@@ -2,7 +2,7 @@
 
 ## Summary
 
-This should be a simple project for the HTML that I just went through. It will then get "dressed up" with CSS later on.
+This is a VERY simple recipe project for the HTML and the CSS I just went through with TOP. 
 
 ## Skills
 
@@ -13,4 +13,12 @@ This should be a simple project for the HTML that I just went through. It will t
   - Images
   - Publish on Pages (GitHub)
 
-**Project will be visited again in the CSS Project**
+- CSS
+  - Adding CSS to HTML
+  - Selectors
+  - Specificity
+  - Color
+  - Background-color
+  - Typography Properties
+
+**As far as I am aware this wont be visited again**
